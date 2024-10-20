@@ -1,8 +1,8 @@
 export const METADATA = {
   author: "Pranav Jha",
-  title: "Portfolio | Shubh Porwal",
+  title: "Portfolio | Pranav Jha",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Pranav is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubhporwal24",
   keywords: [
