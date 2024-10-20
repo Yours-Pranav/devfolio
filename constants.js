@@ -6,7 +6,7 @@ export const METADATA = {
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubhporwal24",
   keywords: [
-    "Shubh Porwal",
+    "Pranav ",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
